@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-123856
+- 👋 Hi, I’m Rohit R P
 - 👀 
 <!---
 Rohit-123856/Rohit-123856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
